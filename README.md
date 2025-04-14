@@ -27,4 +27,4 @@ Feel free to reach out if you want to collaborate, talk tech, or just say hi!
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
